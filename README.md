@@ -1,4 +1,4 @@
-# pes-opensource-workshop
+# PES Open Source Workshop
 ## Installation Instructions:-
 
 ### Linux 
