@@ -27,7 +27,7 @@
  
  2. Add a hello world program in your favorite language
     
-    Save it as `github_username Hello World`.
+    Save it as `github_username_hello-world`.
   
 Refer [this link](https://guides.github.com/features/mastering-markdown/) for markdown help.
 
