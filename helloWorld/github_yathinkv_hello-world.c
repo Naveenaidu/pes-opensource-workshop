@@ -90,6 +90,6 @@ void main()
 	  gets(infix);
 	   convert(infix);
 	    printf("\n The postfix expression is ");
-	     puts(postfix);
+//	     puts(postfix);
 }
 
