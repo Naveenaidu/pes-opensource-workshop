@@ -1,8 +1,6 @@
+printf("hello world")
 
 #include<stdio.h>
 {
 printf("Hello world");
 }
-printf("Hello World!!\n");
-
-
